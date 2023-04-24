@@ -13,10 +13,10 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/3_基本内置数据类型和运算符%202.html" style="text-decoration:none">3.2 基本内置数据类型和运算符 2</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/8fac491f-b3fe-4e48-9a73-aa7eb2e57962" style="text-decoration:none">印象笔记链接</a>)
 
- <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_0%20高级内置数据类型%20——%20分类、引用和拷贝.html" style="text-decoration:none">4.1 高级内置数据类型 —— 分类、引用和拷贝</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/bcfa1c04-a1fe-4071-abfa-607314bcd56b" style="text-decoration:none">印象笔记链接</a>)
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_0%20高级内置数据类型%20——%20分类、引用和拷贝.html" style="text-decoration:none">4.0 高级内置数据类型 —— 分类、引用和拷贝</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/bcfa1c04-a1fe-4071-abfa-607314bcd56b" style="text-decoration:none">印象笔记链接</a>)
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_1高级内置数据类型%20——%20序列类型（Sequence）.html" style="text-decoration:none">4.1 高级内置数据类型 —— 序列类型（Sequence）</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/8daa893b-1b75-45dc-831c-7058090f8733" style="text-decoration:none">印象笔记链接</a>)
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_2高级内置数据类型%20——%20文本序列类型.html" style="text-decoration:none">4.2 高级内置数据类型 —— 文本序列类型</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/49013862-9821-479b-95c2-e19c30378093" style="text-decoration:none">印象笔记链接</a>)
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
