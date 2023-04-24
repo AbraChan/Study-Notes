@@ -5,8 +5,6 @@
 
 <br>
 <br>
-<br>
-
 
 # 笔记目录
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/1_Python%20简介.html" style="text-decoration:none">1 Python 简介</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/3057764f-d056-418c-b65d-5fedc549cd6c" style="font-size:40%text-decoration:none">印象笔记链接</a>**)**
@@ -33,10 +31,19 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/6_Python%20函数和lambda表达式%201.html" style="text-decoration:none">6.1 Python 函数和lambda表达式 1</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/0fcc0661-f3b6-4e61-8336-b030f4cefd20" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/6_Python%20函数和lambda表达式%202.html" style="text-decoration:none">6.2 Python 函数和lambda表达式 2</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/f40c3a39-62e0-4891-9abf-4b1fed0fc57d" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/7_类和对象%201.html" style="text-decoration:none">7.1 类和对象 1</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/1c1f1f8f-c758-4489-adea-dbbec123a5d6" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/7_类和对象%202.html" style="text-decoration:none">7.2 类和对象 2</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/781d7cfc-a39b-43c2-807d-e3e3c51bba0e" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/8_类特殊成员.html" style="text-decoration:none">8 类特殊成员</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/b41ad75f-05e6-4daa-8a3b-cd0417e31b84" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/9_Python%20异常处理机制.html" style="text-decoration:none">9 Python 异常处理机制</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/5c9ea861-96e3-4ae9-bb3e-b2afc0dcc152" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/10_模块和包.html" style="text-decoration:none">10 模块和包</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/415f24be-a081-486b-b62a-a6718299ac39" style="text-decoration:none">印象笔记链接</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
