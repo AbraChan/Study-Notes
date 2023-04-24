@@ -7,20 +7,28 @@
 # 笔记目录
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/1_Python%20简介.html" style="text-decoration:none">1 Python 简介</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/3057764f-d056-418c-b65d-5fedc549cd6c" style="font-size:40%text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/2_Python%20编程环境搭建%20%26%20编程规范.html" style="text-decoration:none">2 Python 编程环境搭建 & 编程规范</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/c8f57d51-cbb6-4193-afdd-f6fbfb7ad78b" style="text-decoration:none">印象笔记链接</a>)
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/2_Python%20编程环境搭建%20%26%20编程规范.html" style="text-decoration:none">2 Python 编程环境搭建 & 编程规范</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/c8f57d51-cbb6-4193-afdd-f6fbfb7ad78b" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/3_基本内置数据类型和运算符%201.html" style="text-decoration:none">3.1 基本内置数据类型和运算符 1</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/e95db27f-0522-4ffd-bdc1-6f751848600d" style="text-decoration:none">印象笔记链接</a>)
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/3_基本内置数据类型和运算符%201.html" style="text-decoration:none">3.1 基本内置数据类型和运算符 1</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/e95db27f-0522-4ffd-bdc1-6f751848600d" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/3_基本内置数据类型和运算符%202.html" style="text-decoration:none">3.2 基本内置数据类型和运算符 2</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/8fac491f-b3fe-4e48-9a73-aa7eb2e57962" style="text-decoration:none">印象笔记链接</a>)
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/3_基本内置数据类型和运算符%202.html" style="text-decoration:none">3.2 基本内置数据类型和运算符 2</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/8fac491f-b3fe-4e48-9a73-aa7eb2e57962" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_0%20高级内置数据类型%20——%20分类、引用和拷贝.html" style="text-decoration:none">4.0 高级内置数据类型 —— 分类、引用和拷贝</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/bcfa1c04-a1fe-4071-abfa-607314bcd56b" style="text-decoration:none">印象笔记链接</a>)
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_0%20高级内置数据类型%20——%20分类、引用和拷贝.html" style="text-decoration:none">4.0 高级内置数据类型 —— 分类、引用和拷贝</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/bcfa1c04-a1fe-4071-abfa-607314bcd56b" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_1高级内置数据类型%20——%20序列类型（Sequence）.html" style="text-decoration:none">4.1 高级内置数据类型 —— 序列类型（Sequence）</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/8daa893b-1b75-45dc-831c-7058090f8733" style="text-decoration:none">印象笔记链接</a>)
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_2高级内置数据类型%20——%20文本序列类型.html" style="text-decoration:none">4.2 高级内置数据类型 —— 文本序列类型</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/49013862-9821-479b-95c2-e19c30378093" style="text-decoration:none">印象笔记链接</a>)
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_1高级内置数据类型%20——%20序列类型（Sequence）.html" style="text-decoration:none">4.1 高级内置数据类型 —— 序列类型（Sequence）</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/8daa893b-1b75-45dc-831c-7058090f8733" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_2高级内置数据类型%20——%20文本序列类型.html" style="text-decoration:none">4.2 高级内置数据类型 —— 文本序列类型</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/49013862-9821-479b-95c2-e19c30378093" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_3%20高级内置数据类型%20——%20二进制序列类型.html" style="text-decoration:none">4.3 高级内置数据类型 —— 二进制序列类型</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/48023f6e-1ba6-48fb-9686-567159d9dba9" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+
 
