@@ -3,6 +3,10 @@
 
 2. 本文件夹（ Study-Notes/Python 3 入门教程 ）下的子文件夹里面都是对应同名称的 html 文件的中的图片素材，直接点击本文件夹内 html 文件是无法打开相应的笔记内容的。请通过点击下面整理出来的**笔记目录**来打开对应的笔记。
 
+<br>
+<br>
+<br>
+
 
 # 笔记目录
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/1_Python%20简介.html" style="text-decoration:none">1 Python 简介</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/3057764f-d056-418c-b65d-5fedc549cd6c" style="font-size:40%text-decoration:none">印象笔记链接</a>**)**
@@ -21,9 +25,9 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_3%20高级内置数据类型%20——%20二进制序列类型.html" style="text-decoration:none">4.3 高级内置数据类型 —— 二进制序列类型</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/48023f6e-1ba6-48fb-9686-567159d9dba9" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_4%20高级内置数据类型%20——%20映射类型.html" style="text-decoration:none">4.4 高级内置数据类型 —— 映射类型</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/f4704ebf-489a-40ff-b3cd-cfbdac9ca1ec" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_5%20高级内置数据类型%20——%20集合类型.html" style="text-decoration:none">4.5 高级内置数据类型 —— 集合类型</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/5b7273d4-ae77-4520-a5e3-5f6e8255f61a" style="text-decoration:none">印象笔记链接</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
 
