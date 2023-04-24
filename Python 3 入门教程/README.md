@@ -5,8 +5,8 @@
 
 
 # 笔记目录
-1. <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/1_Python%20简介.html" style="text-decoration:none">Python 简介</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/3057764f-d056-418c-b65d-5fedc549cd6c" style="text-decoration:none">原印象笔记链接</a>)
-2. <a href="https://abrachan.github.io/Study-Notes/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">原印象笔记链接</a>)
-3. <a href="https://abrachan.github.io/Study-Notes/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">原印象笔记链接</a>)
-4. <a href="https://abrachan.github.io/Study-Notes/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">原印象笔记链接</a>)
+1. <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/1_Python%20简介.html" style="text-decoration:none">Python 简介</a> (<a href="https://app.yinxiang.com/shard/s22/nl/24419242/3057764f-d056-418c-b65d-5fedc549cd6c" style="font-size:40%text-decoration:none">印象笔记链接</a>)
+2. <a href="https://abrachan.github.io/Study-Notes/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
+3. <a href="https://abrachan.github.io/Study-Notes/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
+4. <a href="https://abrachan.github.io/Study-Notes/" style="text-decoration:none"></a> (<a href="" style="text-decoration:none">印象笔记链接</a>)
 
