@@ -1,1 +1,4 @@
-这个 《Python 3 入门教程》是学习 <a href="http://c.biancheng.net/python/" style="text-decoration:none">C语言中文网 Python 教程</a> 和 <a href="https://docs.python.org/zh-cn/3.7/index.html" style="text-decoration:none">Python 3.7.7rc1 中文文档</a> 时所做的笔记。
+# 说明
+1. 这个 《Python 3 入门教程》是学习 <a href="http://c.biancheng.net/python/" style="text-decoration:none">C语言中文网 Python 教程</a> 和 <a href="https://docs.python.org/zh-cn/3.7/index.html" style="text-decoration:none">Python 3.7.7rc1 中文文档</a> 时所做的笔记。
+
+2. 待补充
