@@ -29,10 +29,14 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/4_5%20高级内置数据类型%20——%20集合类型.html" style="text-decoration:none">4.5 高级内置数据类型 —— 集合类型</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/5b7273d4-ae77-4520-a5e3-5f6e8255f61a" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/5_Python%20流程控制.html" style="text-decoration:none">5 Python 流程控制</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/ffa5e0c7-f0e4-4ac5-bdb6-17839d5d50ef" style="text-decoration:none">印象笔记链接</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/6_Python%20函数和lambda表达式%201.html" style="text-decoration:none">6.1 Python 函数和lambda表达式 1</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/0fcc0661-f3b6-4e61-8336-b030f4cefd20" style="text-decoration:none">印象笔记链接</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
 
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
 
+* <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
