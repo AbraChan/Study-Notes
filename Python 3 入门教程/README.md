@@ -45,4 +45,4 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/Python%203%20入门教程/11_Python%20文件操作.html" style="text-decoration:none">11 Python 文件操作</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/dabb3942-5a86-4742-b171-3e30fbd3cdd6" style="text-decoration:none">印象笔记链接</a>**)**
 
-* 12 完
+* 12 **(完)**
