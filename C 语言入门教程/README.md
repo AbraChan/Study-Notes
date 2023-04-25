@@ -19,7 +19,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/C%20语言入门教程/3_变量和数据类型（2）.html" style="text-decoration:none">3.2 变量和数据类型（2）</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/ab8414be-bf97-42f3-8ad4-20ae714700bf" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/C%20语言入门教程/4_C语言输入输出.html" style="text-decoration:none">4 C语言输入输出</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/a99b302c-4108-447b-980b-00ab2ed14acf" style="text-decoration:none">印象笔记链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/C%20语言入门教程/4_C语言输入输出.html" style="text-decoration:none">4 C语言输入输出</a> **(**<a href="http://c.biancheng.net/c/31/" style="text-decoration:none">原教程链接</a>**)**
 
 * 5 C语言循环结构和选择结构 **(**<a href="http://c.biancheng.net/c/32/" style="text-decoration:none">原教程链接</a>**)**
 
