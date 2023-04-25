@@ -20,7 +20,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/00%20印度佛教史概说/7%20第七讲%20初期大乘佛教.html" style="text-decoration:none">7 第七讲 初期大乘佛教</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/1996d872-73db-42ef-9269-f7e6f573b7a5" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/00%20印度佛教史概说/8%20第八讲%20龙树系大乘佛教.html" style="text-decoration:none">8 第八讲 龙树系大乘佛教</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/848439f7-67fd-4bfe-a2d8-0d304d0a5990" styl
+* <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/00%20印度佛教史概说/8%20第八讲%20龙树系大乘佛教.html" style="text-decoration:none">8 第八讲 龙树系大乘佛教</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/848439f7-67fd-4bfe-a2d8-0d304d0a5990" style="text-decoration:none">印象笔记链接</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/00%20印度佛教史概说/9%20第九讲%20无著系大乘佛教.html" style="text-decoration:none">9 第九讲 无著系大乘佛教</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/f9874a48-a8a8-4356-99c4-2378a1aef1f8" style="text-decoration:none">印象笔记链接</a>**)**
 
