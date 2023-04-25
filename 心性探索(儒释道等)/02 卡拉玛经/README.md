@@ -7,7 +7,7 @@
 
 # 笔记目录
 * <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/02%20卡拉玛经/00%20《卡拉玛经》原文.html" style="text-decoration:none">《卡拉玛经》原文</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/6cd2a105-de14-4a67-8722-c606a6575cf0" style="text-decoration:none">印象笔记链接</a>**)**
-* <a href="https://kdocs.cn/l/cjcflC7hTc3b" style="text-decoration:none">卡拉玛经讲义 (pdf文档)</a>
+* <a href="https://kdocs.cn/l/cjcflC7hTc3b" style="text-decoration:none">《卡拉玛经》讲义 (pdf文档)</a>
 <br>
 
 * <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/02%20卡拉玛经/01%20《卡拉玛经》第一讲%20序言1%20教法与结集.html" style="text-decoration:none">1 第一讲 序言1 教法与结集</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/c38b11dc-bd54-41dd-84fd-a70e4c83ea4f" style="text-decoration:none">印象笔记链接</a>**)**
