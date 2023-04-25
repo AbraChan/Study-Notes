@@ -7,7 +7,7 @@
 <br>
 
 # 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/C%20语言入门教程/0_完整的编程过程.html" style="text-decoration:none">0 完整的编程过程</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/9f89528c-8b36-4485-b9a8-c71ad003c026" style="text-decoration:none">印象笔记链接</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/" style="text-decoration:none"></a> **(**<a href="" style="text-decoration:none">印象笔记链接</a>**)**
 
