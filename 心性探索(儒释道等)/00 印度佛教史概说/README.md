@@ -6,6 +6,10 @@
 
 
 # 笔记目录
+* <a href="https://kdocs.cn/l/ccoCll17ihRH" style="text-decoration:none">印度佛教史概说（pdf文档）</a>
+
+<br>
+
 * <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/00%20印度佛教史概说/1%20第一讲.html" style="text-decoration:none">1 第一讲</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/bc9ee317-43f8-4fff-a166-2990538b5492" style="text-decoration:none">印象笔记链接</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/00%20印度佛教史概说/2%20第二讲%20释迦世尊.html" style="text-decoration:none">2 第二讲 释迦世尊</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/64a72483-a5cf-4d2a-a9e7-5aa6d5ce80f6" style="text-decoration:none">印象笔记链接</a>**)**
