@@ -25,7 +25,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/C%20语言入门教程/6_数组（C语言）.html" style="text-decoration:none">6 数组（C语言）</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/4e96af7b-dabe-44e6-a44a-5cfe895080ba" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/C%20语言入门教程/7_C语言函数.html" style="text-decoration:none">7 C语言函数</a> **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/f4e31063-a39f-4797-a3a6-344e839ac903" style="text-decoration:none">印象笔记链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/C%20语言入门教程/7_C语言函数.html" style="text-decoration:none">7 C语言函数</a> **(**<a href="http://c.biancheng.net/c/71/" style="text-decoration:none">原教程链接</a>**)**
 
 * 8 C语言预处理命令（宏定义和条件编译） **(**<a href="http://c.biancheng.net/c/75/" style="text-decoration:none">原教程链接</a>**)**
 
