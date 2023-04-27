@@ -11,7 +11,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/05%20实用阿毗达摩讲义/001%20第一讲%20序言.html" style="text-decoration:none">001 第一讲 序言</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/86682558-08fe-4b2a-94ed-15c72f618b79" style="text-decoration:none">印象笔记链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/05%20实用阿毗达摩讲义/002%20第二讲%20为什么要学阿毗达摩.html" style="text-decoration:none">002 第二讲 为什么要学阿毗达摩</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/2127bcf0-c09a-4998-a7e7-998fd3800ca5" style="text-decoration:none">印象笔记链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/05%20实用阿毗达摩讲义/002%20第二讲%20为什么要学阿毗达摩（重点）.html" style="text-decoration:none">002 第二讲 为什么要学阿毗达摩</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/2127bcf0-c09a-4998-a7e7-998fd3800ca5" style="text-decoration:none">印象笔记链接</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/心性探索(儒释道等)/05%20实用阿毗达摩讲义/003%20第三讲%20阿毗达摩概要.html" style="text-decoration:none">003 第三讲 阿毗达摩概要</a> &ensp; **(**<a href="https://app.yinxiang.com/shard/s22/nl/24419242/a5691cfd-1ae0-4e31-98d5-ca61ec5291d7" style="text-decoration:none">印象笔记链接</a>**)**
 
