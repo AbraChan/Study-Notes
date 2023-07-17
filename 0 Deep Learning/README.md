@@ -6,14 +6,14 @@
 
 
 # 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">pptx原文件链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"> (带书签)</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">pptx原文件链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列详解 v1～v7.pdf" style="text-decoration:none">YOLO系列详解 v1～v7 (带书签)</a> &ensp; **(**<a href="https://kdocs.cn/l/cvBWHuADYZaF" style="text-decoration:none">ppt原文件链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列2023综述.pdf" style="text-decoration:none">YOLO系列2023综述</a> &ensp; **(**<a href="https://kdocs.cn/l/chNEx51jzIlU" style="text-decoration:none">pptx原文件链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列2023综述.pdf" style="text-decoration:none">YOLO系列2023综述 (带书签)</a> &ensp; **(**<a href="https://www.kdocs.cn/l/cith08b0qZjU" style="text-decoration:none">ppt原文件链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">pptx原文件链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"> (带书签)</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件链接</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">pptx原文件链接</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"> (带书签)</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件链接</a>**)**
 
 * **(完)**
