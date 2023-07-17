@@ -17,26 +17,30 @@
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列详解 v1～v7.pdf" style="text-decoration:none">YOLO系列详解 v1～v7</a> &ensp; **(**<a href="https://kdocs.cn/l/cvBWHuADYZaF" style="text-decoration:none">ppt原文件</a>**)**
-
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列2023综述.pdf" style="text-decoration:none">YOLO系列2023综述</a> &ensp; **(**<a href="https://www.kdocs.cn/l/cith08b0qZjU" style="text-decoration:none">ppt原文件</a>**)**
-
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
-
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
-
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
-
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Attention.pdf" style="text-decoration:none">Attention</a> &ensp; **(**<a href="https://kdocs.cn/l/cqjz1imA4h6Q" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/EfficientNet.pdf" style="text-decoration:none">EfficientNet</a> &ensp; **(**<a href="https://kdocs.cn/l/ccHMmoXQtGxY" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+
+
+
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列详解 v1～v7.pdf" style="text-decoration:none">YOLO系列详解 v1～v7</a> &ensp; **(**<a href="https://kdocs.cn/l/cvBWHuADYZaF" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列2023综述.pdf" style="text-decoration:none">YOLO系列2023综述</a> —— A Comprehensive Review of YOLO: From YOLOv1 and Beyond &ensp; **(**<a href="https://www.kdocs.cn/l/cith08b0qZjU" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+<br>
+<br>
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
