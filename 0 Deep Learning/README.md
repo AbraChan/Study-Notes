@@ -22,7 +22,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/EfficientNet.pdf" style="text-decoration:none">EfficientNet</a> &ensp; **(**<a href="https://kdocs.cn/l/ccHMmoXQtGxY" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Faster RCNN.pdf" style="text-decoration:none">Faster RCNN</a> &ensp; **(**<a href="https://kdocs.cn/l/cbvs3mUMwQnK" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
