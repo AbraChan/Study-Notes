@@ -8,11 +8,11 @@
 
 
 # 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/0 Basic Concepts.pdf" style="text-decoration:none">0 Basic Concepts</a> `涵盖：Conv层及其参数量计算、DNN完整详细内容、优化器详细介绍、优化器Q&A` &ensp; **(**<a href="https://kdocs.cn/l/coqxJGtpN5Ql" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/0 Basic Concepts.pdf" style="text-decoration:none">0 Basic Concepts</a>  `涵盖：Conv层及其参数量计算、DNN完整详细内容、优化器详细介绍、优化器 Q&A` &ensp; **(**<a href="https://kdocs.cn/l/coqxJGtpN5Ql" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/0 深度学习中常用的损失函数.pdf" style="text-decoration:none">0 深度学习中常用的损失函数</a> &ensp; **(**<a href="https://kdocs.cn/l/ciZ2tZdZuxW0" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
@@ -24,7 +24,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Faster RCNN.pdf" style="text-decoration:none">Faster RCNN</a> &ensp; **(**<a href="https://kdocs.cn/l/cbvs3mUMwQnK" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Mask RCNN.pdf" style="text-decoration:none">Mask RCNN</a> `含 RCNN、FastRCNN、FasterRCNN、MaskRCNN 的基本讲解` &ensp; **(**<a href="https://kdocs.cn/l/cbg7tVosRKJw" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Mask RCNN.pdf" style="text-decoration:none">Mask RCNN</a>  `含 RCNN、FastRCNN、FasterRCNN、MaskRCNN 的基本讲解` &ensp; **(**<a href="https://kdocs.cn/l/cbg7tVosRKJw" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/RNN & LSTM & GRU.pdf" style="text-decoration:none">RNN & LSTM & GRU</a> &ensp; **(**<a href="https://kdocs.cn/l/cdnpB5d5SkSm" style="text-decoration:none">ppt原文件</a>**)**
 
@@ -38,9 +38,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列详解 v1～v7.pdf" style="text-decoration:none">YOLO系列详解 v1～v7</a> &ensp; **(**<a href="https://kdocs.cn/l/cvBWHuADYZaF" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列2023综述.pdf" style="text-decoration:none">YOLO系列2023综述</a> `A Comprehensive Review of YOLO: From YOLOv1 and Beyond` &ensp; **(**<a href="https://www.kdocs.cn/l/cith08b0qZjU" style="text-decoration:none">ppt原文件</a>**)**
-
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列2023综述.pdf" style="text-decoration:none">YOLO系列2023综述</a>  `A Comprehensive Review of YOLO: From YOLOv1 and Beyond` &ensp; **(**<a href="https://www.kdocs.cn/l/cith08b0qZjU" style="text-decoration:none">ppt原文件</a>**)**
 
 <br>
 
