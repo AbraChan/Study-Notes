@@ -28,7 +28,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/RNN & LSTM & GRU.pdf" style="text-decoration:none">RNN & LSTM & GRU</a> &ensp; **(**<a href="https://kdocs.cn/l/cdnpB5d5SkSm" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/SeNet.pdf" style="text-decoration:none">SeNet</a> &ensp; **(**<a href="https://kdocs.cn/l/csdt2uec1R0S" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/SENet.pdf" style="text-decoration:none">SENet</a> &ensp; **(**<a href="https://kdocs.cn/l/csdt2uec1R0S" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 <br>
