@@ -34,9 +34,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/UNet.pdf" style="text-decoration:none">UNet</a> &ensp; **(**<a href="https://kdocs.cn/l/chiCnBkxYdlH" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
-
-
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/VGG.pdf" style="text-decoration:none">VGG</a> &ensp; **(**<a href="https://kdocs.cn/l/cqUGen777WUz" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列详解 v1～v7.pdf" style="text-decoration:none">YOLO系列详解 v1～v7</a> &ensp; **(**<a href="https://kdocs.cn/l/cvBWHuADYZaF" style="text-decoration:none">ppt原文件</a>**)**
 
@@ -48,4 +46,4 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
-* **(完)**
+* **(持续更新中...)**
