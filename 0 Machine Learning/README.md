@@ -10,7 +10,7 @@
 # 笔记目录
 * <a href="https://abrachan.github.io/Study-Notes/0 Machine Learning/GBDT.pdf" style="text-decoration:none">GBDT</a> &ensp; **(**<a href="https://kdocs.cn/l/ctp5JF31gplq" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Machine Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Machine Learning/XGBoost.pdf" style="text-decoration:none">XGBoost</a> &ensp; **(**<a href="https://kdocs.cn/l/ck5lVAPyOcW2" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Machine Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
