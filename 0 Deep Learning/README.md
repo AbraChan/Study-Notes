@@ -24,9 +24,9 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Faster RCNN.pdf" style="text-decoration:none">Faster RCNN</a> &ensp; **(**<a href="https://kdocs.cn/l/cbvs3mUMwQnK" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Mask RCNN.pdf" style="text-decoration:none">Mask RCNN</a> [含 RCNN、FastRCNN、FasterRCNN、MaskRCNN 的基本讲解] &ensp; **(**<a href="https://kdocs.cn/l/cbg7tVosRKJw" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Mask RCNN.pdf" style="text-decoration:none">Mask RCNN</a> `含 RCNN、FastRCNN、FasterRCNN、MaskRCNN 的基本讲解` &ensp; **(**<a href="https://kdocs.cn/l/cbg7tVosRKJw" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/RNN & LSTM & GRU.pdf" style="text-decoration:none">RNN & LSTM & GRU</a> &ensp; **(**<a href="https://kdocs.cn/l/cdnpB5d5SkSm" style="text-decoration:none">ppt原文件</a>**)**
 
 
 
