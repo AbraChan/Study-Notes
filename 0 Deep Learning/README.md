@@ -8,7 +8,7 @@
 
 
 # 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/0 Basic Concepts.pdf" style="text-decoration:none">0 Basic Concepts</a> `涵盖：Conv层及其参数量计算、DNN完整详细内容、优化器详细介绍、优化器Q&A` &ensp; **(**<a href="https://kdocs.cn/l/coqxJGtpN5Ql" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
@@ -28,7 +28,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/RNN & LSTM & GRU.pdf" style="text-decoration:none">RNN & LSTM & GRU</a> &ensp; **(**<a href="https://kdocs.cn/l/cdnpB5d5SkSm" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/SENet.pdf" style="text-decoration:none">SENet</a> &ensp; **(**<a href="https://kdocs.cn/l/csdt2uec1R0S" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/SeNet.pdf" style="text-decoration:none">SeNet</a> &ensp; **(**<a href="https://kdocs.cn/l/csdt2uec1R0S" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Transformer.pdf" style="text-decoration:none">Transformer</a> &ensp; **(**<a href="https://kdocs.cn/l/ch92ezxgKZMK" style="text-decoration:none">ppt原文件</a>**)**
 
