@@ -10,12 +10,9 @@
 # 笔记目录
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/0 Basic Concepts.pdf" style="text-decoration:none">0 Basic Concepts</a>  `涵盖：Conv层及其参数量计算、DNN完整详细内容、优化器详细介绍、优化器 Q&A` &ensp; **(**<a href="https://kdocs.cn/l/coqxJGtpN5Ql" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/0 深度学习中常用的激活函数.pdf" style="text-decoration:none">0 深度学习中常用的激活函数</a> &ensp; **(**<a href="https://kdocs.cn/l/ce5CY1AyK4nm" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/0 深度学习中常用的损失函数.pdf" style="text-decoration:none">0 深度学习中常用的损失函数</a> &ensp; **(**<a href="https://kdocs.cn/l/ciZ2tZdZuxW0" style="text-decoration:none">ppt原文件</a>**)**
-
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
-
 
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Attention.pdf" style="text-decoration:none">Attention</a> &ensp; **(**<a href="https://kdocs.cn/l/cqjz1imA4h6Q" style="text-decoration:none">ppt原文件</a>**)**
