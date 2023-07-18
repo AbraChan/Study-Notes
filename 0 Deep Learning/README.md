@@ -32,7 +32,7 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Transformer.pdf" style="text-decoration:none">Transformer</a> &ensp; **(**<a href="https://kdocs.cn/l/ch92ezxgKZMK" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/UNet.pdf" style="text-decoration:none">UNet</a> &ensp; **(**<a href="https://kdocs.cn/l/chiCnBkxYdlH" style="text-decoration:none">ppt原文件</a>**)**
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
