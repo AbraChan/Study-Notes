@@ -30,8 +30,13 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/SENet.pdf" style="text-decoration:none">SENet</a> &ensp; **(**<a href="https://kdocs.cn/l/csdt2uec1R0S" style="text-decoration:none">ppt原文件</a>**)**
 
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/Transformer.pdf" style="text-decoration:none">Transformer</a> &ensp; **(**<a href="https://kdocs.cn/l/ch92ezxgKZMK" style="text-decoration:none">ppt原文件</a>**)**
+
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
-<br>
+
+* <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+
+
 
 * <a href="https://abrachan.github.io/Study-Notes/0 Deep Learning/YOLO系列详解 v1～v7.pdf" style="text-decoration:none">YOLO系列详解 v1～v7</a> &ensp; **(**<a href="https://kdocs.cn/l/cvBWHuADYZaF" style="text-decoration:none">ppt原文件</a>**)**
 
