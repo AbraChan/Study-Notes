@@ -10,7 +10,7 @@
 
 
 ## 课程链接
-* 6 <a href="https://www.coursera.org/learn/data-analysis-with-python" style="text-decoration:none">Data Analysis with Python</a>_IBM
+* 6 <a href="https://www.coursera.org/learn/data-analysis-with-python" style="text-decoration:none">Data Analysis with Python_IBM</a>
 
 <br>
 <br>
