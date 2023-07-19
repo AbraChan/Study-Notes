@@ -14,24 +14,20 @@
 ## 课程链接
 * <a href="https://www.edx.org/micromasters/uc-san-diegox-data-science" style="text-decoration:none">MicroMasters® Program in Data Science</a> `(UCSanDiegoX)`
 
-	1 <a href="https://www.edx.org/course/python-for-data-science-2" style="text-decoration:none">Python for Data Science</a> `(DSE200x)`
-	
-	2 <a href="https://www.edx.org/course/probability-and-statistics-in-data-science-using-p" style="text-decoration:none">Probability and Statistics in Data Science using Python</a> `(DSE210x)`
-	
-	3 <a href="https://www.edx.org/course/machine-learning-fundamentals-2" style="text-decoration:none">Machine Learning Fundamentals</a> `(DSE220x)`
-	
 	4 <a href="https://www.edx.org/course/big-data-analytics-using-spark" style="text-decoration:none">Big Data Analytics using Spark</a> `(DSE230x)`
 
 <br>
 <br>
 
 ## 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/4 Big Data Analytics using Spark (DSE230x)/M0_Introduction and Course Information.pdf" style="text-decoration:none">M0_Introduction and Course Information</a> &ensp; **(**<a href="https://kdocs.cn/l/cgFSdsHRG0ET" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/4 Big Data Analytics using Spark (DSE230x)/M1M2_Map-Reduce and Spark.pdf" style="text-decoration:none">M1M2_Map-Reduce and Spark</a> &ensp; **(**<a href="https://kdocs.cn/l/cfEHDv8nvVvU" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/4 Big Data Analytics using Spark (DSE230x)/M3M4_PCA and Weather Analysis.pdf" style="text-decoration:none">M3M4_PCA and Weather Analysis</a> &ensp; **(**<a href="https://kdocs.cn/l/ckabQtjQfi29" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/4 Big Data Analytics using Spark (DSE230x)/M5M6_K-Means and Intrinsic Dimensions.pdf" style="text-decoration:none">M5M6_K-Means and Intrinsic Dimensions</a> &ensp; **(**<a href="https://kdocs.cn/l/cmbQsxvLEbWf" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/4 Big Data Analytics using Spark (DSE230x)/M7M8_Decision Trees, Random Forests and Boosting.pdf" style="text-decoration:none">M7M8_Decision Trees, Random Forests and Boosting</a> &ensp; **(**<a href="https://kdocs.cn/l/ckjyR2ClG6d8" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/4 Big Data Analytics using Spark (DSE230x)/M9M10_Neural Networks and TensorFlow.pdf" style="text-decoration:none">M9M10_Neural Networks and TensorFlow</a> &ensp; **(**<a href="https://kdocs.cn/l/cdbL3HncCUTB" style="text-decoration:none">ppt原文件</a>**)**
