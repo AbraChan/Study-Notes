@@ -3,6 +3,10 @@
 
 <br>
 
+**注**：为避免内容泄露和版权纠纷，课程配套代码就不放在 github 上了。
+
+<br>
+
 ### Edx ：https://www.edx.org/
 
 <br>

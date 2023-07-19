@@ -3,10 +3,6 @@
 
 <br>
 
-**注**：为避免内容泄露和版权纠纷，课程配套代码就不放在 github 上了。
-
-<br>
-
 ### Edx ：https://www.edx.org/
 
 <br>
@@ -14,7 +10,7 @@
 
 
 ## 课程链接
-* <a href="https://www.edx.org/micromasters/uc-san-diegox-data-science" style="text-decoration:none">MicroMasters® Program in Data Science</a> `(UCSanDiegoX)`
+* 0 <a href="https://www.edx.org/micromasters/uc-san-diegox-data-science" style="text-decoration:none">MicroMasters® Program in Data Science</a> `(UCSanDiegoX)`
 
 	1 <a href="https://www.edx.org/course/python-for-data-science-2" style="text-decoration:none">Python for Data Science</a> `(DSE200x)`
 	
