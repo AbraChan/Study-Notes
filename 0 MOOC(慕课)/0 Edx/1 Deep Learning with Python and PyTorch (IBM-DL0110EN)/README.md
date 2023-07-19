@@ -18,16 +18,16 @@
 <br>
 
 ## 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M0 - About this course.pdf" style="text-decoration:none">M0 - About this course</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M0 - About this course.pdf" style="text-decoration:none">M0 - About this course</a> &ensp; **(**<a href="https://kdocs.cn/l/csdTPlIsGEmQ" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M1 - Tensors and Gradients.pdf" style="text-decoration:none">M1 - Tensors and Gradients</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M1 - Tensors and Gradients.pdf" style="text-decoration:none">M1 - Tensors and Gradients</a> &ensp; **(**<a href="https://kdocs.cn/l/crK6mBd89YXY" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M2 -  Fundamentals of Pytorch with Linear Regression.pdf" style="text-decoration:none">M2 -  Fundamentals of Pytorch with Linear Regression</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M2 -  Fundamentals of Pytorch with Linear Regression.pdf" style="text-decoration:none">M2 -  Fundamentals of Pytorch with Linear Regression</a> &ensp; **(**<a href="https://kdocs.cn/l/cb6nCgCYfZdP" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M3 -  Logistic and Softmax Regression.pdf" style="text-decoration:none">M3 -  Logistic and Softmax Regression</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M3 -  Logistic and Softmax Regression.pdf" style="text-decoration:none">M3 -  Logistic and Softmax Regression</a> &ensp; **(**<a href="https://kdocs.cn/l/chJNyeMyOnx6" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M4 -  Feedforward Neural Network.pdf" style="text-decoration:none">M4 -  Feedforward Neural Network</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M4 -  Feedforward Neural Network.pdf" style="text-decoration:none">M4 -  Feedforward Neural Network</a> &ensp; **(**<a href="https://kdocs.cn/l/clLpE7JfvnNL" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M5 -  Deep Networks.pdf" style="text-decoration:none">M5 -  Deep Networks</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M5 -  Deep Networks.pdf" style="text-decoration:none">M5 -  Deep Networks</a> &ensp; **(**<a href="https://kdocs.cn/l/cbRiZfxX5bcJ" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M6 -  Introduction to Networks for Computer vision.pdf" style="text-decoration:none">M6 -  Introduction to Networks for Computer vision</a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/1 Deep Learning with Python and PyTorch (IBM-DL0110EN)/M6 -  Introduction to Networks for Computer vision.pdf" style="text-decoration:none">M6 -  Introduction to Networks for Computer vision</a> &ensp; **(**<a href="https://kdocs.cn/l/chz1pdRie6vC" style="text-decoration:none">ppt原文件</a>**)**
