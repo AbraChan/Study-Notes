@@ -20,18 +20,18 @@
 <br>
 
 ## 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/Week 0_Introduction and Course Information.pdf" style="text-decoration:none">Week 0_Introduction and Course Information</a> &ensp; **(**<a href="https://kdocs.cn/l/cqbZ69r6LHVb" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/1 Python for Data Science_DSE200x/Week 0_Introduction and Course Information.pdf" style="text-decoration:none">Week 0_Introduction and Course Information</a> &ensp; **(**<a href="https://kdocs.cn/l/cqbZ69r6LHVb" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/Week 1_Getting Started with Data Science.pdf" style="text-decoration:none">Week 1_Getting Started with Data Science</a> &ensp; **(**<a href="https://kdocs.cn/l/cfrx5cR1X5cM" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/1 Python for Data Science_DSE200x/Week 1_Getting Started with Data Science.pdf" style="text-decoration:none">Week 1_Getting Started with Data Science</a> &ensp; **(**<a href="https://kdocs.cn/l/cfrx5cR1X5cM" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/Week 2_Background in Python and Unix (Optional).pdf" style="text-decoration:none">Week 2_Background in Python and Unix (Optional)</a> &ensp; **(**<a href="https://kdocs.cn/l/coSQeIxxaX1H" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/1 Python for Data Science_DSE200x/Week 2_Background in Python and Unix (Optional).pdf" style="text-decoration:none">Week 2_Background in Python and Unix (Optional)</a> &ensp; **(**<a href="https://kdocs.cn/l/coSQeIxxaX1H" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/Week 3_Jupyter Notebooks and Numpy.pdf" style="text-decoration:none">Week 3_Jupyter Notebooks and Numpy</a> &ensp; **(**<a href="https://kdocs.cn/l/cbVjhG4LAT4P" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/1 Python for Data Science_DSE200x/Week 3_Jupyter Notebooks and Numpy.pdf" style="text-decoration:none">Week 3_Jupyter Notebooks and Numpy</a> &ensp; **(**<a href="https://kdocs.cn/l/cbVjhG4LAT4P" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/Week 4_Pandas.pdf" style="text-decoration:none">Week 4_Pandas</a> &ensp; **(**<a href="https://kdocs.cn/l/cgN52SBFVAmB" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/1 Python for Data Science_DSE200x/Week 4_Pandas.pdf" style="text-decoration:none">Week 4_Pandas</a> &ensp; **(**<a href="https://kdocs.cn/l/cgN52SBFVAmB" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/Week 5_Data Visualization.pdf" style="text-decoration:none">Week 5_Data Visualization</a> &ensp; **(**<a href="https://kdocs.cn/l/cdfqba1XkXC1" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/1 Python for Data Science_DSE200x/Week 5_Data Visualization.pdf" style="text-decoration:none">Week 5_Data Visualization</a> &ensp; **(**<a href="https://kdocs.cn/l/cdfqba1XkXC1" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/Week 7_Introduction to Machine Learning.pdf" style="text-decoration:none">Week 7_Introduction to Machine Learning</a> &ensp; **(**<a href="https://kdocs.cn/l/cpn9GzcxWZIg" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/1 Python for Data Science_DSE200x/Week 7_Introduction to Machine Learning.pdf" style="text-decoration:none">Week 7_Introduction to Machine Learning</a> &ensp; **(**<a href="https://kdocs.cn/l/cpn9GzcxWZIg" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/Week 8_Working with Text and Databases.pdf" style="text-decoration:none">Week 8_Working with Text and Databases</a> &ensp; **(**<a href="https://kdocs.cn/l/choEcWcjX8Co" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/1 Python for Data Science_DSE200x/Week 8_Working with Text and Databases.pdf" style="text-decoration:none">Week 8_Working with Text and Databases</a> &ensp; **(**<a href="https://kdocs.cn/l/choEcWcjX8Co" style="text-decoration:none">ppt原文件</a>**)**
