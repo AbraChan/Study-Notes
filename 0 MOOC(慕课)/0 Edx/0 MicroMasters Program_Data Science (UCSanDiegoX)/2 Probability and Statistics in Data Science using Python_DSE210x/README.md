@@ -20,32 +20,32 @@
 <br>
 
 ## 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 1_Introduction to Probability and Statistics.pdf" style="text-decoration:none">Topic 1_Introduction to Probability and Statistics</a> &ensp; **(**<a href="https://kdocs.cn/l/cgKN8AXNHgT2" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 2_Sets.pdf" style="text-decoration:none">Topic 2_Sets</a> &ensp; **(**<a href="https://kdocs.cn/l/cgHrI2g5xjEZ" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 3_Counting.pdf" style="text-decoration:none">Topic 3_Counting</a> &ensp; **(**<a href="https://kdocs.cn/l/cc3iuqJHsnDy" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 4_Combinatorics.pdf" style="text-decoration:none">Topic 4_Combinatorics</a> &ensp; **(**<a href="https://kdocs.cn/l/cebJVCLvCwHs" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 5_Probability Introduction.pdf" style="text-decoration:none">Topic 5_Probability Introduction</a> &ensp; **(**<a href="https://kdocs.cn/l/cmn0BM2BHlEb" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 6_Conditional Probability.pdf" style="text-decoration:none">Topic 6_Conditional Probability</a> &ensp; **(**<a href="https://kdocs.cn/l/ccajMesPnGQx" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 7_Random Variables, Expectation and Variance.pdf" style="text-decoration:none">Topic 7_Random Variables, Expectation and Variance</a> &ensp; **(**<a href="https://kdocs.cn/l/cfVHvsUxYvSq" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 8_Discrete Distribution Families.pdf" style="text-decoration:none">Topic 8_Discrete Distribution Families</a> &ensp; **(**<a href="https://kdocs.cn/l/ctcIR1WcBLON" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 9_Continuous Distribution Families.pdf" style="text-decoration:none">Topic 9_Continuous Distribution Families</a> &ensp; **(**<a href="https://kdocs.cn/l/cmdIdUvsIfbs" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 10_Inequalities and Limit Theorems.pdf" style="text-decoration:none">Topic 10_Inequalities and Limit Theorems</a> &ensp; **(**<a href="https://kdocs.cn/l/cs2fp5ACCaEK" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 11_Statistics, Parameter Estimation and Confidence Interval.pdf" style="text-decoration:none">Topic 11_Statistics, Parameter Estimation and Confidence Interval</a> &ensp; **(**<a href="https://kdocs.cn/l/cm2NTEtcLUzw" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 12_Regression and PCA.pdf" style="text-decoration:none">Topic 12_Regression and PCA</a> &ensp; **(**<a href="https://kdocs.cn/l/cr1fkCOoQUTJ" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 13_Hypothesis Testing.pdf" style="text-decoration:none">Topic 13_Hypothesis Testing</a> &ensp; **(**<a href="https://kdocs.cn/l/ct4mpfPGEn0C" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Poster of HistoryOfProbAndStat.pdf" style="text-decoration:none">Poster of HistoryOfProbAndStat</a>
