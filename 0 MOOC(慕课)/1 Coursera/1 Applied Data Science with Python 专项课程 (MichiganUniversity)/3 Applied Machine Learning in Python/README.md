@@ -18,13 +18,13 @@
 <br>
 
 ## 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M1 - Introduction to SciKit Learn.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="https://kdocs.cn/l/ciLhdrm2n0Il" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M1 - Introduction to SciKit Learn.pdf" style="text-decoration:none">M1 - Introduction to SciKit Learn</a> &ensp; **(**<a href="https://kdocs.cn/l/ciLhdrm2n0Il" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M2 - Supervised Machine Learning (part 1).pdf" style="text-decoration:none"></a> &ensp; **(**<a href="https://kdocs.cn/l/cjVPCu27iWoV" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M2 - Supervised Machine Learning (part 1).pdf" style="text-decoration:none">M2 - Supervised Machine Learning (part 1)</a> &ensp; **(**<a href="https://kdocs.cn/l/cjVPCu27iWoV" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M3 - Evaluation.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="https://kdocs.cn/l/ck2AF1sPP3EA" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M3 - Evaluation.pdf" style="text-decoration:none">M3 - Evaluation</a> &ensp; **(**<a href="https://kdocs.cn/l/ck2AF1sPP3EA" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M4 - Supervised Machine Learning (part 2).pdf" style="text-decoration:none"></a> &ensp; **(**<a href="https://kdocs.cn/l/cfqjE1r4lFnh" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M4 - Supervised Machine Learning (part 2).pdf" style="text-decoration:none">M4 - Supervised Machine Learning (part 2)</a> &ensp; **(**<a href="https://kdocs.cn/l/cfqjE1r4lFnh" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M5 - Unsupervised Machine Learning （optional content）.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="https://kdocs.cn/l/cbDSjdiJLFq6" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 Coursera/1 Applied Data Science with Python 专项课程 (MichiganUniversity)/3 Applied Machine Learning in Python/M5 - Unsupervised Machine Learning （optional content）.pdf" style="text-decoration:none">M5 - Unsupervised Machine Learning （optional content）</a> &ensp; **(**<a href="https://kdocs.cn/l/cbDSjdiJLFq6" style="text-decoration:none">ppt原文件</a>**)**
 
