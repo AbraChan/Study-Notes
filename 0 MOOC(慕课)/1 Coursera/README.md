@@ -10,11 +10,11 @@
 
 
 # 课程链接
-* <a href="https://www.coursera.org/specializations/data-science-python" style="text-decoration:none">1 Applied Data Science with Python 专项课程 (MichiganUniversity)</a>
+* 1 <a href="https://www.coursera.org/specializations/data-science-python" style="text-decoration:none">Applied Data Science with Python 专项课程 (MichiganUniversity)</a>
 
-* <a href="https://www.coursera.org/learn/data-analysis-with-python" style="text-decoration:none">6 Data Analysis with Python_IBM</a>
+* 6 <a href="https://www.coursera.org/learn/data-analysis-with-python" style="text-decoration:none">Data Analysis with Python_IBM</a>
 
-* <a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="text-decoration:none">7 Statistics for Data Science with Python (IBM_ST0151EN)</a>
+* 7 <a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="text-decoration:none">Statistics for Data Science with Python (IBM_ST0151EN)</a>
 
 * <a href="" style="text-decoration:none"></a>
 
