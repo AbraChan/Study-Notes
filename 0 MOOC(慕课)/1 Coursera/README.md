@@ -12,6 +12,14 @@
 # 课程链接
 * 1 <a href="https://www.coursera.org/specializations/data-science-python" style="text-decoration:none">Applied Data Science with Python 专项课程 (MichiganUniversity)</a>
 
+* 2 <a href="https://www.coursera.org/specializations/machine-learning-introduction" style="text-decoration:none">Machine Learning 专项课程 (Andrew Ng)</a>
+
+* 3 <a href="https://www.coursera.org/specializations/deep-learning" style="text-decoration:none">Deep Learning 专项课程 (Andrew Ng)</a>
+
+* 4 <a href="https://www.coursera.org/specializations/mathematics-machine-learning" style="text-decoration:none">Mathematics for Machine Learning 专项课程 (ImperialCollegeLondon)</a>
+
+* 5 <a href="https://www.coursera.org/specializations/python" style="text-decoration:none">Python for Everybody 专项课程 (MichiganUniversity)</a>
+
 * 6 <a href="https://www.coursera.org/learn/data-analysis-with-python" style="text-decoration:none">Data Analysis with Python_IBM</a>
 
 * 7 <a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="text-decoration:none">Statistics for Data Science with Python (IBM_ST0151EN)</a>
