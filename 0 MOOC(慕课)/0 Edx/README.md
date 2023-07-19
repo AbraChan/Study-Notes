@@ -10,23 +10,23 @@
 
 
 ## 课程链接
-* 0 <a href="https://www.edx.org/micromasters/uc-san-diegox-data-science" style="text-decoration:none">MicroMasters® Program in Data Science</a> `UCSanDiegoX`
+* 0 <a href="https://www.edx.org/micromasters/uc-san-diegox-data-science" style="text-decoration:none">MicroMasters® Program in Data Science</a> `(UCSanDiegoX)`
 
 * 1 <a href="https://www.edx.org/course/deep-learning-with-python-and-pytorch" style="text-decoration:none">Deep Learning with Python and PyTorch</a> ` (IBM-DL0110EN)`
 
-* <a href="" style="text-decoration:none"></a>
+* 1 <a href="https://www.edx.org/course/deep-learning-with-tensorflow" style="text-decoration:none">Deep Learning with Tensorflow</a> `(IBM-DL0120EN)`
+
+* 1 <a href="https://www.edx.org/course/using-gpus-to-scale-and-speed-up-deep-learning" style="text-decoration:none">Using GPUs to Scale and Speed-up Deep Learning</a> `(IBM DL0122EN)`
+
+* 2 <a href="https://www.edx.org/course/data-mining-theories-and-algorithms-for-tackling-b" style="text-decoration:none">数据挖掘:理论与算法_Data Mining: Theories and Algorithms for Tackling Big Data</a> `(TsinghuaX 80240372X )`
+
+* 4 <a href="https://www.edx.org/course/sql-for-data-science" style="text-decoration:none">SQL for Data Science</a> `(IBM)`
+
+* 5 <a href="https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript" style="text-decoration:none">CS50's Web Programming with Python and JavaScript</a> `(HarvardX CS50W)`
+
+* 6 <a href="https://www.edx.org/course/computer-vision-and-image-processing-fundamentals" style="text-decoration:none">Computer Vision and Image Processing Fundamentals</a> `(IBM-CV0101EN)`
 
 * <a href="" style="text-decoration:none"></a>
-
-* <a href="" style="text-decoration:none"></a>
-
-* <a href="" style="text-decoration:none"></a>
-
-* <a href="" style="text-decoration:none"></a>
-
-* <a href="" style="text-decoration:none"></a>
-
-
 
 <br>
 
