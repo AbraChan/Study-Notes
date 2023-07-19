@@ -13,25 +13,31 @@
 
 ## 课程链接
 * <a href="https://www.edx.org/micromasters/uc-san-diegox-data-science" style="text-decoration:none">MicroMasters® Program in Data Science</a> `(UCSanDiegoX)`
-
-	1 <a href="https://www.edx.org/course/python-for-data-science-2" style="text-decoration:none">Python for Data Science</a> `(DSE200x)`
-	
-	2 <a href="https://www.edx.org/course/probability-and-statistics-in-data-science-using-p" style="text-decoration:none">Probability and Statistics in Data Science using Python</a> `(DSE210x)`
 	
 	3 <a href="https://www.edx.org/course/machine-learning-fundamentals-2" style="text-decoration:none">Machine Learning Fundamentals</a> `(DSE220x)`
-	
-	4 <a href="https://www.edx.org/course/big-data-analytics-using-spark" style="text-decoration:none">Big Data Analytics using Spark</a> `(DSE230x)`
 
 <br>
 <br>
 
 ## 笔记目录
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M0_Introduction and Course Information.pdf" style="text-decoration:none">M0_Introduction and Course Information</a> &ensp; **(**<a href="https://kdocs.cn/l/cm9t7BuflAfI" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M1_Prediction Problems.pdf" style="text-decoration:none">M1_Prediction Problems</a> &ensp; **(**<a href="https://kdocs.cn/l/cgsMibcuMk64" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M2_Generative Modeling I.pdf" style="text-decoration:none">M2_Generative Modeling I</a> &ensp; **(**<a href="https://kdocs.cn/l/cppQY3G27rJ2" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M3_Generative Modeling II.pdf" style="text-decoration:none">M3_Generative Modeling II</a> &ensp; **(**<a href="https://kdocs.cn/l/ceSKPAxqhAM6" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M4_Linear Regression and Probability Estimation.pdf" style="text-decoration:none">M4_Linear Regression and Probability Estimation</a> &ensp; **(**<a href="https://kdocs.cn/l/ccED1w9Z91LP" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M5_Optimization and Geometry.pdf" style="text-decoration:none">M5_Optimization and Geometry</a> &ensp; **(**<a href="https://kdocs.cn/l/cuzOhg9G2BMs" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M6_Linear Classification.pdf" style="text-decoration:none">M6_Linear Classification</a> &ensp; **(**<a href="https://kdocs.cn/l/cj6PTQqIJcrs" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M7_Combining Simple Classifiers.pdf" style="text-decoration:none">M7_Combining Simple Classifiers</a> &ensp; **(**<a href="https://kdocs.cn/l/ciB8Lejd0dok" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M8_Representation Learning I.pdf" style="text-decoration:none">M8_Representation Learning I</a> &ensp; **(**<a href="https://kdocs.cn/l/chfbP5mGwHa0" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M9_Representation Learning II.pdf" style="text-decoration:none">M9_Representation Learning II</a> &ensp; **(**<a href="https://kdocs.cn/l/cdMyYCzOqyJN" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/3 Machine Learning Fundamentals (DSE220x)/M10_Deep Learning.pdf" style="text-decoration:none">M10_Deep Learning</a> &ensp; **(**<a href="https://kdocs.cn/l/cvD2xdiEdJxD" style="text-decoration:none">ppt原文件</a>**)**
