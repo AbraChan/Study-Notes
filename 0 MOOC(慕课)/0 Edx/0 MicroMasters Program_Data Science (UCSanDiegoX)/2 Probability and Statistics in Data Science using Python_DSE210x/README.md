@@ -46,6 +46,6 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Topic 13_Hypothesis Testing.pdf" style="text-decoration:none">Topic 13_Hypothesis Testing</a> &ensp; **(**<a href="https://kdocs.cn/l/ct4mpfPGEn0C" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/.pdf" style="text-decoration:none"></a>
 
 * <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/0 Edx/0 MicroMasters Program_Data Science (UCSanDiegoX)/2 Probability and Statistics in Data Science using Python_DSE210x/Poster of HistoryOfProbAndStat.pdf" style="text-decoration:none">Poster of HistoryOfProbAndStat</a>
