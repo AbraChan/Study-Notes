@@ -15,12 +15,6 @@
 * <a href="https://www.edx.org/micromasters/uc-san-diegox-data-science" style="text-decoration:none">MicroMasters® Program in Data Science</a> `(UCSanDiegoX)`
 
 	1 <a href="https://www.edx.org/course/python-for-data-science-2" style="text-decoration:none">Python for Data Science</a> `(DSE200x)`
-	
-	2 <a href="https://www.edx.org/course/probability-and-statistics-in-data-science-using-p" style="text-decoration:none">Probability and Statistics in Data Science using Python</a> `(DSE210x)`
-	
-	3 <a href="https://www.edx.org/course/machine-learning-fundamentals-2" style="text-decoration:none">Machine Learning Fundamentals</a> `(DSE220x)`
-	
-	4 <a href="https://www.edx.org/course/big-data-analytics-using-spark" style="text-decoration:none">Big Data Analytics using Spark</a> `(DSE230x)`
 
 <br>
 <br>
