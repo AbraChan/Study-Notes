@@ -10,16 +10,14 @@
 
 
 # 课程链接
-* <a href="https://www.coursera.org/specializations/data-science-python" style="text-decoration:none">1 Applied Data Science with Python 专项课程 (MichiganUniversity)</a>
+* <a href="https://www.coursera.org/specializations/data-science-python" style="text-decoration:none">Applied Data Science with Python 专项课程 (MichiganUniversity)</a>
 
-	* <a href="https://www.coursera.org/learn/python-data-analysis/home/week/1" style="text-decoration:none">1 Introduction to Data Science in Python</a>
+	1 <a href="https://www.coursera.org/learn/python-data-analysis" style="text-decoration:none">Introduction to Data Science in Python</a>
 
-	* <a href="https://www.coursera.org/learn/python-plotting/home/week/1" style="text-decoration:none">2 Applied Plotting, Charting & Data Representation in Python</a>
+	2 <a href="https://www.coursera.org/learn/python-plotting" style="text-decoration:none">Applied Plotting, Charting & Data Representation in Python</a>
 	
-	* <a href="https://www.coursera.org/learn/python-machine-learning/home/week/1" style="text-decoration:none">3 Applied Machine Learning in Python</a>
+	3 <a href="https://www.coursera.org/learn/python-machine-learning" style="text-decoration:none">Applied Machine Learning in Python</a>
 
-	* <a href="" style="text-decoration:none"></a>
+	4 <a href="https://www.coursera.org/learn/python-text-mining" style="text-decoration:none">Applied Text Mining in Python</a>
 	
-	* <a href="" style="text-decoration:none"></a>
-
-	* <a href="" style="text-decoration:none"></a>
+	5 <a href="https://www.coursera.org/learn/python-social-network-analysis" style="text-decoration:none">Applied Social Network Analysis in Python</a>
