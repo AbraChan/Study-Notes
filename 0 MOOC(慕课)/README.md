@@ -5,13 +5,13 @@
 
 <br>
 
-### Edx ：https://www.edx.org/
+### Edx          ：https://www.edx.org/
 
-### Coursera ：https://www.coursera.org/
+### Coursera     ：https://www.coursera.org/
 
 ### 中国大学MOOC ：https://www.icourse163.org/
 
-### CSDN课程：https://edu.csdn.net/course
+### CSDN课程     ：https://edu.csdn.net/course
 
-### Khan Academy: https://www.khanacademy.org/
-### Khan Academy: https://zh.khanacademy.org/  `(可汗学院中文网站)`
+### Khan Academy : https://www.khanacademy.org/
+### Khan Academy : https://zh.khanacademy.org/  `(可汗学院中文网站)`
