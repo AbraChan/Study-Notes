@@ -12,32 +12,24 @@
 
 
 ### 课程链接
-* <a href="https://edu.csdn.net/course/detail/36337" style="text-decoration:none">带打kaggle比赛 第1期</a>
-
-* <a href="https://edu.csdn.net/course/detail/36153" style="text-decoration:none">带打kaggle比赛 第2期</a>
-
 * <a href="https://edu.csdn.net/course/detail/36338" style="text-decoration:none">搞定系列：yolov5训练自己目标检测数据集wind</a>
 
 * <a href="https://edu.csdn.net/course/detail/37028" style="text-decoration:none">深度学习-物体检测及分类-YOLOv5实战-汽车检测</a>
 
 * <a href="https://edu.csdn.net/course/detail/36773" style="text-decoration:none">搞定系列：yolox检测封装成类调用</a>
 
-* <a href="https://edu.csdn.net/course/detail/35502" style="text-decoration:none">面向医学领域的深度学习项目实战</a>
-
-* <a href="" style="text-decoration:none"></a>
-
-
-* **(持续更新中...)**
-
-
 <br>
 <br>
 
 
 ## 笔记目录
-* 1 <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 面向医学领域的深度学习项目实战.pdf" style="text-decoration:none">面向医学领域的深度学习项目实战</a> &ensp; **(**<a href="https://kdocs.cn/l/cobkJFIuj3Ee" style="text-decoration:none">ppt原文件</a>**)**
+* 1 <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/3 CSDN/YOLO 课程/1 搞定系列：yolov5训练自己数据集windows版.pdf" style="text-decoration:none">搞定系列：yolov5训练自己数据集windows版</a> &ensp; **(**<a href="https://kdocs.cn/l/coPklxDLdNwf" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+* 2 <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/3 CSDN/YOLO 课程/2 深度学习-物体检测及分类-YOLOv5实战-汽车检测.pdf" style="text-decoration:none">深度学习-物体检测及分类-YOLOv5实战-汽车检测</a> &ensp; **(**<a href="https://kdocs.cn/l/cvhwVaWHX53H" style="text-decoration:none">ppt原文件</a>**)**
 
+* 3 <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/3 CSDN/YOLO 课程/3 搞定系列：yolox检测封装成类调用.pdf" style="text-decoration:none">搞定系列：yolox检测封装成类调用</a> &ensp; **(**<a href="https://kdocs.cn/l/ckQxgykSM5nK" style="text-decoration:none">ppt原文件</a>**)**
+
+
+<br>
 
 * **(持续更新中...)**
