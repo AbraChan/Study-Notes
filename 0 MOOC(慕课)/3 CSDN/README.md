@@ -10,7 +10,7 @@
 <br>
 <br>
 
-### 课程链接
+## 课程链接
 * <a href="https://edu.csdn.net/course/detail/36337" style="text-decoration:none">带打kaggle比赛 第1期</a>
 
 * <a href="https://edu.csdn.net/course/detail/36153" style="text-decoration:none">带打kaggle比赛 第2期</a>
@@ -25,6 +25,18 @@
 
 * <a href="" style="text-decoration:none"></a>
 
+
+<br>
+
+* **(持续更新中...)**
+
+<br>
+<br>
+
+## 笔记目录
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
+
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/.pdf" style="text-decoration:none"></a> &ensp; **(**<a href="" style="text-decoration:none">ppt原文件</a>**)**
 
 <br>
 
