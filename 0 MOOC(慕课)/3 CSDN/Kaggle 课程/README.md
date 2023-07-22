@@ -21,9 +21,9 @@
 
 
 ## 笔记目录
-* 1 <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/Kaggle 课程/1 带打 kaggle 比赛 第1期.pdf" style="text-decoration:none">1 带打 kaggle 比赛 第1期</a> &ensp; **(**<a href="https://kdocs.cn/l/chHkYlrbZwwv" style="text-decoration:none">ppt原文件</a>**)**
+* 1 <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/Kaggle 课程/1 带打 kaggle 比赛 第1期.pdf" style="text-decoration:none">带打 kaggle 比赛 第1期</a> &ensp; **(**<a href="https://kdocs.cn/l/chHkYlrbZwwv" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/Kaggle 课程/2 带打 kaggle 比赛 第2期.pdf" style="text-decoration:none">2 带打 kaggle 比赛 第2期</a> &ensp; **(**<a href="https://kdocs.cn/l/ckaQIczX7BZH" style="text-decoration:none">ppt原文件</a>**)**
+* 2 <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/Kaggle 课程/2 带打 kaggle 比赛 第2期.pdf" style="text-decoration:none">带打 kaggle 比赛 第2期</a> &ensp; **(**<a href="https://kdocs.cn/l/ckaQIczX7BZH" style="text-decoration:none">ppt原文件</a>**)**
 
 
 * **(持续更新中...)**
