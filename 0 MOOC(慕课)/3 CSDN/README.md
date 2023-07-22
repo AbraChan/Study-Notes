@@ -15,11 +15,13 @@
 
 * <a href="https://edu.csdn.net/course/detail/36153" style="text-decoration:none">带打kaggle比赛 第2期</a>
 
-* <a href="" style="text-decoration:none"></a>
+* <a href="https://edu.csdn.net/course/detail/36338" style="text-decoration:none">搞定系列：yolov5训练自己目标检测数据集wind</a>
 
-* <a href="" style="text-decoration:none"></a>
+* <a href="https://edu.csdn.net/course/detail/37028" style="text-decoration:none">深度学习-物体检测及分类-YOLOv5实战-汽车检测</a>
 
-* <a href="" style="text-decoration:none"></a>
+* <a href="https://edu.csdn.net/course/detail/36773" style="text-decoration:none">搞定系列：yolox检测封装成类调用</a>
+
+* <a href="https://edu.csdn.net/course/detail/35502" style="text-decoration:none">面向医学领域的深度学习项目实战</a>
 
 * <a href="" style="text-decoration:none"></a>
 
