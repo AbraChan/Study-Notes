@@ -34,4 +34,4 @@
 
 * <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/2 中国大学MOOC/1 数字图像处理_上海交大_顾力栩/8 第八周 图像配准(2).pdf" style="text-decoration:none">8 第八周 图像配准(2)</a> &ensp; **(**<a href="https://kdocs.cn/l/cq4uoAm0udJG" style="text-decoration:none">ppt原文件</a>**)**
 
-* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/2 中国大学MOOC/1 数字图像处理_上海交大_顾力栩/9 测试与作业汇总.pdf" style="text-decoration:none">9 测试与作业汇总</a> &ensp; **(**<a href=""https://kdocs.cn/l/cgDQUdU6xfIM style="text-decoration:none">ppt原文件</a>**)**
+* <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/2 中国大学MOOC/1 数字图像处理_上海交大_顾力栩/9 测试与作业汇总.pdf" style="text-decoration:none">9 测试与作业汇总</a> &ensp; **(**<a href="https://kdocs.cn/l/cgDQUdU6xfIM" style="text-decoration:none">ppt原文件</a>**)**
