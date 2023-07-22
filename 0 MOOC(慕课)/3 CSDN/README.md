@@ -35,7 +35,8 @@
 
 
 ## 笔记目录
-* 1 <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/1 面向医学领域的深度学习项目实战.pdf" style="text-decoration:none">面向医学领域的深度学习项目实战</a> &ensp; **(**<a href="https://kdocs.cn/l/cobkJFIuj3Ee" style="text-decoration:none">ppt原文件</a>**)**
+* 1 <a href="https://abrachan.github.io/Study-Notes/0 MOOC(慕课)/3 CSDN/1 面向医学领域的深度学习项目实战.pdf" style="text-decoration:none">面向医学领域的深度学习项目实战</a> &ensp; **(**<a href="https://kdocs.cn/l/cobkJFIuj3Ee" style="text-decoration:none">ppt原文件</a>**)**
 
+<br>
 
 * **(持续更新中...)**
