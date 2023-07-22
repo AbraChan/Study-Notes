@@ -13,3 +13,5 @@
 
 ### CSDN课程：https://edu.csdn.net/course
 
+### Khan Academy: https://www.khanacademy.org/
+### Khan Academy (中文): https://zh.khanacademy.org/
